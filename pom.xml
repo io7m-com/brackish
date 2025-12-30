@@ -11,7 +11,7 @@
 
   <groupId>com.io7m.brackish</groupId>
   <artifactId>com.io7m.brackish</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <packaging>pom</packaging>
   <name>com.io7m.brackish</name>
@@ -28,7 +28,7 @@
     <io7m.workID>506c597f-b987-4e3a-bd1e-de0417b94244</io7m.workID>
 
     <!-- Configuration. -->
-    <io7m.api.previousVersion>0.0.1</io7m.api.previousVersion>
+    <io7m.api.previousVersion>1.0.0</io7m.api.previousVersion>
     <io7m.java.targetJavaVersion>25</io7m.java.targetJavaVersion>
 
     <!-- io7m dependencies. -->
