@@ -7,7 +7,7 @@ A JavaFX component for rendering waveforms.
 
 * Render waveforms in realtime.
 * Zoom and scroll waveforms.
-* Written in pure Java 21.
+* Written in pure Java 25.
 * [OSGi-ready](https://www.osgi.org/)
 * [JPMS-ready](https://en.wikipedia.org/wiki/Java_Platform_Module_System)
 * ISC license.
